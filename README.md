@@ -128,9 +128,7 @@ java FileName
 
 ---
 
-## ⭐ Support
 
-If you find this repository helpful, consider giving it a **⭐** and following my journey as I continue adding new flights and Java concepts.
 
 ## ✈️ Final Announcement
 
