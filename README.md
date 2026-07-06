@@ -18,7 +18,7 @@ Whether you're a beginner or revising Java concepts, this repository will help y
 Every stop on this journey covers an important Java concept.
 
 * ✈️ Flight 001 – Introduction to Java
-* ✈️ Flight 002 – Variables
+* ✈️ Flight 002 – Basics
 * ✈️ Flight 003 – Data Types
 * ✈️ Flight 004 – Operators
 * ✈️ Flight 005 – Conditional Statements
